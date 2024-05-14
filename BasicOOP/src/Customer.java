@@ -1,7 +1,15 @@
 public class Customer {
 
     private Clothing[] items;
+    private String customerName;
 
+    public Customer(){
+
+    }
+
+    public Customer (String customerName){
+        this.customerName = customerName;
+    }
     public void addItems(Clothing[] itemsList){
         items = itemsList;
     }
