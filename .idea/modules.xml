@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BasicOOP/BasicOOP.iml" filepath="$PROJECT_DIR$/BasicOOP/BasicOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Helidon/Helidon.iml" filepath="$PROJECT_DIR$/Helidon/Helidon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Human Resources Program API/Human Resources Program API.iml" filepath="$PROJECT_DIR$/Human Resources Program API/Human Resources Program API.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaMasterClass.iml" filepath="$PROJECT_DIR$/JavaMasterClass.iml" />
     </modules>
   </component>
